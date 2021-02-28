@@ -93,7 +93,7 @@
                     <!-- shop_items -->
                     <div class="col-md-4 col-sm-6">
                         <div class="shop_items">
-                            <a href="#" class="shop_img"><img src="{{asset('images/Fanta.png')}}" width="250px" height="240px" alt=""></a>
+                            <a href="#" class="shop_img"><img src="{{asset('images/fanta.png')}}" width="250px" height="240px" alt=""></a>
                             <div class="shop_text">
                                 <a href="#" class="s_heding">Fanta</a>
                                 <h4>#150</h4>
