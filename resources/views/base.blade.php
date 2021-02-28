@@ -97,7 +97,7 @@
                             <div class="shop_text">
                                 <a href="#" class="s_heding">Fanta</a>
                                 <h4>#150</h4>
-                                <a href="{{ route('add', ['id'=> 5, 'name'=>'Fanta', 'price'=>150]) }}" class="theme_btn">Add to Cart</a>
+                                <a href="{{ route('add', ['id'=> 5, 'name'=>'fanta', 'price'=>150]) }}" class="theme_btn">Add to Cart</a>
                             </div>
                         </div>
                     </div>
@@ -106,7 +106,7 @@
                         <div class="shop_items">
                             <a href="#" class="shop_img"><img src="{{asset('images/yoghurt.png')}}" height="240px"alt=""></a>
                             <div class="shop_text">
-                                <a href="#" class="s_heding">yoghurt</a>
+                                <a href="#" class="s_heding">Yoghurt</a>
                                 <h4>#500</h4>
                                 <a href="{{ route('add', ['id'=> 6, 'name'=>'yoghurt', 'price'=>500]) }}" class="theme_btn">Add to Cart</a>
                             </div>
@@ -128,7 +128,7 @@
                         <div class="shop_items">
                             <a href="#" class="shop_img"><img src="{{asset('images/ice_cream.jpg')}}" width="210px" height="215px" alt=""></a>
                             <div class="shop_text">
-                                <a href="#" class="s_heding"> ice-cream</a>
+                                <a href="#" class="s_heding">Ice-cream</a>
                                 <h4>#400</h4>
                                 <a href="{{ route('add', ['id'=> 8, 'name'=>'Ice-cream', 'price'=>400]) }}" class="theme_btn">Add to Cart</a>
                             </div>
@@ -139,7 +139,7 @@
                         <div class="shop_items">
                             <a href="#" class="shop_img"><img src="{{asset('images/meat_pie.jpg')}}" height="215px"alt=""></a>
                             <div class="shop_text">
-                                <a href="#" class="s_heding"> meat-pie </a>
+                                <a href="#" class="s_heding">Meat-pie </a>
                                 <h4>#350</h4>
                                 <a href="{{ route('add', ['id'=> 9, 'name'=>'meat-pie', 'price'=>350]) }}" class="theme_btn">Add to Cart</a>
                             </div>
